@@ -1,6 +1,6 @@
 # redlining_thermal_tolerance_project
 A study looking at the impact of redlining on the morphology and physiology of the ant species Tapinoma sessile. Comparisons of thermal tolerance and body size with ant populations in historically redlined neighborhoods of Baltimore, Maryland and Philadelphia, PA. The thermal tolerance and body sizes will be compared across different redlined neighborhoods to identify neighborhood specific and city specific patterns. 
-<<<<<<< HEAD
+
 
 
 #Packages 
